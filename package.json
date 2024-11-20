@@ -1,0 +1,29 @@
+{
+  "name": "mf0493_cristian",
+  "version": "0.0.1",
+  "description": "examen final",
+  "main": "index.js",
+  "scripts": {
+
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CRISTIAN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khristian79/MF0493_CRISTIAN_GOMEZ.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khristian79/MF0493_CRISTIAN_GOMEZ/issues"
+  },
+  "homepage": "https://github.com/khristian79/MF0493_CRISTIAN_GOMEZ#readme",
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
